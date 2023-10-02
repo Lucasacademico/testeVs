@@ -1,2 +1,2 @@
 # testeVs
-aaaaaaaaa
+Apenas um teste de repositório.
